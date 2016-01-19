@@ -1,0 +1,32 @@
+[{
+  "cat_id": 0,
+  "cat_name":"New Arivals"
+},
+ {
+  "cat_id": 1,
+  "cat_name":"Accesories"
+},{
+  "cat_id": 2,
+  "cat_name":"Bags"
+},{
+  "cat_id": 3,
+  "cat_name":"Dressed"
+},{
+  "cat_id": 4,
+  "cat_name":"Jackets"
+},{
+  "cat_id": 5,
+  "cat_name":"jewelry"
+},{
+  "cat_id": 6,
+  "cat_name":"Shoes"
+},{
+  "cat_id": 7,
+  "cat_name":"Shirts"
+},{
+  "cat_id": 8,
+  "cat_name":"Sweaters"
+},{
+  "cat_id": 9,
+  "cat_name":"T-shirts"
+}]
